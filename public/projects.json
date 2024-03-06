@@ -1,0 +1,183 @@
+[
+  {
+    "id": 12,
+    "cardImage": "/Portfolio/images/1688759789613.jpg",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "code",
+    "date": "2024",
+    "title": "portfolio",
+    "projectImages": [
+      "/Portfolio/images/portfolio/Group122.png",
+      "/Portfolio/images/portfolio/Group123.png",
+      "/Portfolio/images/portfolio/Group124.png"
+    ],
+    "description": "Mon portfolio constitue un projet personnel visant à regrouper l'ensemble de mes travaux, qu'ils soient liés à mes études ou à des projets personnels. Cet espace virtuel me permet de présenter de manière organisée et complète toutes les réalisations auxquelles j'ai participé, mettant en avant mes compétences et mon évolution au fil du temps.",
+    "items": [
+      "Développement web axé sur l'expérience utilisateur.",
+      "Innovation logicielle avec technologies avancées.",
+      "Utilisation de Vue.js + Gsap"
+    ],
+    "link": "https://github.com/yanyan90/Portfolio"
+  },
+  {
+    "id": 6,
+    "cardImage": "/Portfolio/images/japanese.png",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "design",
+    "date": "2023",
+    "title": "Spa Japonais",
+    "projectImages": [
+      "/Portfolio/images/japonais/Group69.png",
+      "/Portfolio/images/japonais/Group70.png",
+      "/Portfolio/images/japonais/Group71.png",
+      "/Portfolio/images/japonais/NewMacbookProMockupFrontView.png"
+    ],
+    "description": "Le projet de design web pour un spa japonais incarne l'élégance et la sérénité caractéristiques de la culture japonaise, créant une expérience en ligne immersive qui reflète l'atmosphère apaisante du spa lui-même. La conception est centrée sur l'harmonie, l'équilibre et la nature, capturant l'esthétique ...",
+    "items": [
+      "Illustrator",
+      "PhotoShop",
+      "Adobe XD "
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 3,
+    "cardImage": "/Portfolio/images/pw2/Screenshot4409.png",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "code",
+    "date": "2023",
+    "title": "Metal Fest",
+    "projectImages": [
+      "/Portfolio/images/pw2/Group78.png",
+      "/Portfolio/images/pw2/Group79.png",
+      "/Portfolio/images/pw2/Group80.png",
+      "/Portfolio/images/pw2/Group81.png"
+    ],
+    "description": "Le projet web pour un festival métal offre une expérience immersive pour les amateurs de musique lourde. Doté d'un système d'administration , il permet la gestion efficace de l'événement, tandis que la fonction d'enregistrement des billets en ligne simplifie le processus d'achat pour les fans.",
+    "items": [
+      "Laravel : Backend pour gestion optimale des données.",
+      "JavaScript : Interactivité",
+      "CSS et HTML : Design attrayant, navigation intuitive.",
+      "SQL : Gestion efficace de la base de données."
+    ],
+    "link": "https://github.com/yanyan90/Metal_festival_pw2"
+  },
+  {
+    "id": 4,
+    "cardImage": "/Portfolio/images/mode.png",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "design",
+    "date": "2023",
+    "title": "mode",
+    "projectImages": [
+      "/Portfolio/images/mode/Group72.png"
+    ],
+    "description": "Projet de design web pour une ligne de mode élégante. Une expérience en visuel captivante reflétant l'essence harmonieuse de la collection.",
+    "items": [
+      "Illustrator",
+      "PhotoShop",
+      "Adobe XD "
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 1,
+    "cardImage": "/Portfolio/images/personna/Screenshot45527.png",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "design",
+    "date": "2023",
+    "title": "Personna",
+    "projectImages": [
+      "/Portfolio/images/personna/Group64.png"
+    ],
+    "description": "Petit design et concept féminin pour un persona inventé.",
+    "items": [
+      "Adobe XD",
+      "Illustrator"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 7,
+    "cardImage": "/Portfolio/images/1688759789613.jpg",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "map",
+    "date": "2024",
+    "title": "Mapé moi !",
+    "projectImages": [
+      "/Portfolio/images/macbook/Group90.png"
+    ],
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when ...",
+    "items": [
+      "Bullet point 1",
+      "Bullet point 2",
+      "Bullet point 3",
+      "Bullet point 3"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 8,
+    "cardImage": "/Portfolio/images/house/Screensho10.png",
+    "circleImage": "/Portfolio/images/logo-javascript-logo-black-and-white.png",
+    "type": "code",
+    "date": "2023",
+    "title": " reno Maison",
+    "projectImages": [
+      "/Portfolio/images/house/Group90.png",
+      "/Portfolio/images/house/Group91.png",
+      "/Portfolio/images/house/Group92.png"
+    ],
+    "description": "Projet web dédié à la rénovation et à la fabrication de maisons, une expérience en ligne immersive qui révolutionne la façon dont vous envisagez la transformation de votre espace de vie. Nous combinons l'expertise de pointe avec un design innovant pour créer des environnements résidentiels exceptionnels. Parcourez nos réalisations, découvrez nos services et laissez-nous être votre partenaire de ...",
+    "items": [
+      "Laravel : Backend pour gestion optimale des données.",
+      "JavaScript : Interactivité",
+      "CSS et HTML : Design attrayant, navigation intuitive.",
+      "SQL : Gestion efficace de la base de données."
+    ],
+    "link": "https://github.com/yanyan90/house_project"
+  },
+  {
+    "id": 9,
+    "cardImage": "/Portfolio/images/plante2.jpg",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "design",
+    "date": "2022",
+    "title": "Plante",
+    "projectImages": [
+      "/Portfolio/images/plantes/Group74.png",
+      "/Portfolio/images/plantes/Group33.png",
+      "/Portfolio/images/plantes/Group34.png",
+      "/Portfolio/images/plantes/Group73.png"
+    ],
+    "description": "Le projet scolaire web que j'ai développé est un site de vente de plantes, alliant esthétisme et convivialité. Son design moderne offre une expérience utilisateur immersive, facilitant la navigation et l'achat. Des catégories variées, des descriptions détaillées et des visuels attrayants mettent en valeur la diversité botanique proposée.",
+    "items": [
+      "Adobe XD",
+      "Illustrator",
+      "Photoshop"
+    ],
+    "link": "https://example.com"
+  },
+  {
+    "id": 10,
+    "cardImage": "/Portfolio/images/hockey/Screenshot113819.png",
+    "circleImage": "dist/images/logo-javascript-logo-black-and-white.png",
+    "type": "code",
+    "date": "2023",
+    "title": "Dek Hockey",
+    "projectImages": [
+      "/Portfolio/images/hockey/Group101.png",
+      "/Portfolio/images/hockey/Group102.png",
+      "/Portfolio/images/hockey/Group103.png"
+    ],
+    "description": "Mon projet scolaire web, réalisé avec Vue.js, est dédié au dek hockey. Son interface dynamique offre des fonctionnalités intuitives pour les amateurs de ce sport. La conception centrée sur l'utilisateur intègre des informations détaillées sur les ligues, les équipes et les événements, créant une plateforme immersive et conviviale.",
+    "items": [
+      "Adobe XD",
+      "Illustrator",
+      "Vue.js",
+      "Photoshop",
+      "ArestDB"
+    ],
+    "link": "https://github.com/yanyan90/Hockey_Vue.Js"
+  }
+]
